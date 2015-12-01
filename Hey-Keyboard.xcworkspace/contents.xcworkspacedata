@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:HEYiOS/Hey.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HeyLib/HeyLib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/van/Documents/workspace-xcode/HeyaKeyboard/HeyKeyboard.xcodeproj">
+   </FileRef>
+</Workspace>
